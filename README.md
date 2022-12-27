@@ -14,3 +14,9 @@ Welcome to my machine learning project on drawing, digits and characters recogni
 
 1.c Pre Processing characters dataset (Kaggle)
 
+# 2. Combining datasets and dataset preparation
+# 3. Building Model
+
+# 4. Training Model
+
+TODO: pass all these to Jupyter, .ipynb format
